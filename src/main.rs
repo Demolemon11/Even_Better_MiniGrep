@@ -1,8 +1,4 @@
-use minigrep::run;
+use grep_lu::run;
 fn main() {
     run()
-    // match 3 != 4 {
-    //     true => 
-    //     false =>
-    // }
 }
